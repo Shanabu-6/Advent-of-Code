@@ -1,2 +1,2 @@
 ## Shanabu's Advent-of-Code
-My attempts at the Advent of Code challenges
+Here are my attempts at the [Advent of Code] (https://adventofcode.com/) challenges.
