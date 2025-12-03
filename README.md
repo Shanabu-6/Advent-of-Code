@@ -1,2 +1,2 @@
-## Shanbu's Advent-of-Code
+## Shanabu's Advent-of-Code
 My attempts at the Advent of Code challenges
