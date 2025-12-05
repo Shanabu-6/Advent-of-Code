@@ -44,10 +44,9 @@ with open(filename) as f:      #open csv
 		
 
 		total_ribbon += ribbon_perimeter
-	
-		
-print(ribbon_perimeter)
+		print(ribbon_perimeter)
 
 #print(total_surface)
+print(total_ribbon)
 
 
